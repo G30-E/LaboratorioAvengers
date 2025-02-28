@@ -1,1 +1,3 @@
 # LaboratorioAvengers
+
+Este proyecto me permitió fortalecer mis habilidades en programación con C# y manejo de archivos. Aprendí a trabajar con directorios, archivos y excepciones de manera eficiente, además de mejorar la interacción con el usuario a través de un menú simple. Lo más destacado fue entender cómo gestionar operaciones comunes como crear, mover, copiar y eliminar archivos, y asegurarme de manejar correctamente los errores. También me di cuenta de la importancia de la experiencia del usuario, integrando detalles como animaciones de carga. En general, fue una buena oportunidad para aplicar conceptos clave de programación y mejorar la estructura del código.
